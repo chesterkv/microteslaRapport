@@ -1,3 +1,9 @@
+//l'objectif est ici de contrôler simultanément le moteur et le servomoteur
+//en donnant des ordres arbitraires
+//on a trouvé empiriquement les ordres à mettre en entrée
+//moteur : 2000-2135 (arrêt-pleine puissance)
+//servomoteur : 1000-1200-1400 (complètement à gauche - milieu - complètement à droite)
+
 #include <Servo.h>
 #include <math.h>
 
