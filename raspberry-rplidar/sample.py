@@ -1,3 +1,7 @@
+#code open-source adapté :
+#au lieu de donner en sortie la demo où on peut voir la pièce et les différents obstacles
+#on a en sortie des tableaux de 360 entrées donnant pour chaque degré la distance au LIDAR associée (fonction lidar scans)
+
 """
 Consume LIDAR measurement file and create an image for display.
 
