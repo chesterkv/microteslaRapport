@@ -1,3 +1,6 @@
+//l'objectif de ce code est d'utiliser les capteurs ultrasons situés à l'avant, à droite et à gauche
+//pour fournir des commandes aux moteurs afin que la voiture se déplace en ligne droite dans un couloir
+
 #include <math.h>
 //initialisation
 
