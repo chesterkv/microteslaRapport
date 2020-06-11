@@ -1,3 +1,7 @@
+//amélioration du code de ligne_droite.ino
+//on voit ici une loop qui effectue les commandes en boucle :
+//on calcule les distances à droite et à gauche et on en déduit l'ordre de direction qui en découle.
+
 #include <math.h>
 #include <Servo.h>
 //initialisation
